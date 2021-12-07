@@ -1,0 +1,23 @@
+Albaania-Tirana
+Andorra-Andorra la Vella
+Armeenia-Jerevan
+Aserbaidþaan-Bakuu
+Austria-Viin
+Belgia-Brüssel
+Bosnia ja Hertsegoviina-Sarajevo
+Bulgaaria-Sofia
+Eesti-Tallinn
+Gruusia-Thbilisi
+Hispaania-Madrid
+Horvaatia-Zagreb
+Iirimaa-Dublin
+Island-Reykjavik
+Itaalia-Rooma
+Kasahstan-Astana
+Kreeka-Ateena
+Küpros-Nikosia
+Leedu-Vilnius
+Liechtenstein-Vaduz
+Luksemburg-Luxembourg
+Läti-Riia
+Madalmaad-Amsterdam
